@@ -28,7 +28,7 @@ public class Flexymind_hw_03_app02Activity extends Activity implements OnClickLi
     
     public void onClick(View v) {
       // TODO Auto-generated method stub
-      finish();
+    	btn.setText("Jumped OK");
     }
     
 }
